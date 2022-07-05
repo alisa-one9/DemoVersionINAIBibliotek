@@ -1,0 +1,325 @@
+<resources>
+    <string name="app_name">DemoVersionINAIBibliotek</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="html5css3">
+        Полагаете, что создавать веб-сайты очень сложно? Ошибаетесь! С появлением HTML5\n
+        новейшей версии стандарта HTML, создавать и настраивать веб-страницы стало проще,\n
+        чем когда-либо. С помощью этой замечательной книги, написанной простым и понятным\n
+        языком, вы освоите искусство веб-дизайна, изучите основы HTML5 и CSS3 и научитесь \n
+        создавать собственные сайты.
+        Освойте язык разметки. Изучите синтаксис языков HTML5 и CSS3, познакомьтесь со структурой
+        vтиповых веб-страниц и создайте свой первый веб-сайт "с нуля".
+        Начните создавать веб-страницы. Познакомьтесь с HTML-тегами, применяемыми для создания\n
+        \заголовков и тела веб-страниц, и научитесь форматировать абзацы и другие текстовые\n
+        контейнеры, а также добавлять на веб-страницы ссылки и таблицы.
+        Сделайте свой сайт привлекательным. Чтобы привлечь как можно больше посетителей\n
+        на сайт, добавьте на него гиперссылки, изображения, звук, видеоклипы и потоковое медиа.</string>
+    <string name="griffith">
+       "Eric Evans has written a fantastic book on how you can make \n
+        the design of your software match your mental model of the problem \n
+        domain you are addressing. His book is very compatible with XP. \n
+        It is not about drawing pictures of a domain; it is about how you \n
+        think of it, the language you use to talk about it,and how you \n
+        organize your software to reflect your improving understanding of it. \n
+        Eric thinks that learning about your problem domain is as likely \n
+        to happen at theend of your project as at the beginning, and so \n
+        refactoring is a big part of hi technique. The book is a fun read. \n
+        Eric has lots of interesting stories, and he has a way with words. \n
+        I see this book as essential reading for software developers-it \n
+        is a future classic."</string>
+    <string name="distilled">
+        Реализация предметно-ориентированного проектирования представляет \n
+        собой подход «сверху вниз» к пониманию предметно-ориентированного \n
+        проектирования (DDD) таким образом, который свободно связывает \n
+        стратегические шаблоны с фундаментальными инструментами тактического \n
+        программирования. Вон Вернон сочетает управляемые подходы к внедрению \n
+        с современными архитектурами, подчеркивая важность и ценность \n
+        сосредоточения внимания на бизнес-области при балансировании технических соображений.
+        Опираясь на фундаментальную книгу Эрика Эванса «Дизайн, управляемый предметной областью», \n
+        автор представляет практические методы DDD на примерах из знакомых предметных областей.\n
+        Каждый принцип подкреплен реалистичными примерами Java, которые применимы к разработчикам C#,\n
+        и весь контент связан с одним конкретным примером: поставка крупномасштабной системы SaaS \n
+        на основе Scrum для многопользовательской среды.
+    </string>
+    <string name="Ecclipse">
+        Книга посвящена разработке в среде Eclipse широкого круга Java-приложений. \n
+        Рассмотрены основы работы в среде Eclipse, использование инструментов отладки, \n
+        тестирования и рефакторинга кода. Описана командная разработка приложений, \n
+        их интернационализация и локализация, создание GUI-интерфейса на основе \n
+        библиотеки SWT и набора Java-классов JFace. Показаны особенности разработки \n
+        приложений RCP и Android, а также Web- и Ajax-приложений на основе Eclipse-проектов \n
+        RAP, GWT, Riena, SCA, Scout, WTP, DTP, BIRT. Материал книги сопровождается большим \n
+        количеством примеров с подробным анализом иcходных кодов.
+    </string>
+
+    <string name="HTML5">
+        Die Auszeichnungssprache HTML ist das Fundament des World Wide Web. \n
+        Seit 2004 arbeitet die WHATWG, eine gemeinsame Arbeitsgruppe von Browserherstellern \n
+        und Internetunternehmen, an HTML5. Ausgehend von der aktuellen Verwendung  \n
+        von HTML im Web, wurden innovative und mächtige Werkzeuge entwickelt, von denen \n
+        sich viele schon heute produktiv einsetzen lassen.Das vorliegende Buch zeigt Ihnen, \n
+        wie Sie HTML5-Technologien wie Canvas, Multimedia-Embedding, Web Workers, \n
+        Offline-Storage, semantisches Mark Up und vieles mehr bereits jetzt nutzen. \n
+        So entwickeln Sie Websites und Online-Applikationen nach neuesten Maßstäben \n
+        und erwerben das Know-how, das die Gestaltung des Web in den nächsten \n
+        Jahren entscheidend prägen wird.
+        </string>
+    <string name="webtexte">
+        Sie betreiben eine Firmenwebsite, haben einen Blog, sind in den sozialen \n
+        Netzwerken vertreten. Ganz klar: Mit Ihrer Präsenz im Internet wollen Sie \n
+        einen Mehrwert schaffen - mehr Aufmerksamkeit für Ihr Produkt, Ihre Dienstleistung, \n
+        Ihr Unternehmen, Ihre Marke. Der Mehrwert für Sie generiert sich jedoch immer \n
+        erst aus dem Mehrwert, den Sie für Ihren Kunden schaffen - dieser will sich \n
+        angesprochen fühlen, will sach- und fachgerecht informiert werden und will auch \n
+        gerne wiederkommen, wenn er weiß: Hier werde ich gut "bedient".
+        Überzeugender Content ist der Schlüssel für Ihren Erfolg im Internet. \n
+        Dieser Ratgeber zeigt Ihnen im Detail die vielfältigen Aspekte professioneller \n
+        Onlinetexte. Bei der Umsetzung helfen Ihnen viele Praxisbeispiele,\n
+        die vom "kleinen" selbstständigen Unternehmer um die Ecke bis hin zum \n
+        Weltkonzern reichen. Ein Extra-Kapitel stellt Ihnen 21 ganz konkrete, \n
+        jeweils kommentierte Beispiele vor, die Ihnen zeigen, wie es andere machen.
+        </string>
+    <string name="xhtml">
+        Устали от чтения книг по HTML, которые понятны только специалистам в этой области? \n
+        Тогда самое время взять в руки новое издание «Изучаем HTML, XHTML и CSS. 2-е изд.».\n
+        Хотите изучить HTML, чтобы уметь создавать веб-страницы, о которых вы всегда мечтали?\n
+        Так, чтобы более эффективно общаться с друзьями, семьей и привередливыми клиентами?\n
+        Тогда эта книга для вас. Прочитав ее, вы изучите все секреты создания веб-страниц.\n
+        Вы узнаете, как работают профессионалы, чтобы получить визуально привлекательный \n
+        дизайн, и как максимально эффективно использовать HTML, CSS и XHTML, чтобы создавать \n
+        такие веб-страницы, мимо которых не пройдет ни один пользователь. Используя новейший \n
+        стандарт HTML5, вы сможете поддерживать и совершенствовать свои веб-страницы \n
+        в соответствии с современными требованиями, тем самым обеспечивая их работу \n
+        во всех браузерах и мобильных устройствах.
+    </string>
+    <string name="JavaScript">
+
+    </string>
+    <string name="math_of_bd">
+        The first book to present the common mathematical foundations of big data analysis \n
+        across a range of applications and technologies.Today, the volume, velocity,  \n
+        and variety of data are increasing rapidly across a range of fields, including \n
+        Internet search, healthcare, finance, social media, wireless devices, and cybersecurity. \n
+        Indeed, these data are growing at a rate beyond our capacity to analyze them.
+    </string>
+    <string name="bd_principles">
+        Big Data teaches you to build big data systems using an architecture that takes advantage \n
+        of clustered hardware along with new tools designed specifically to capture and analyze \n
+        web-scale data. It describes a scalable, easy-to-understand approach \n
+        to big data systems that can be built and run by a small team.
+    </string>
+    <string name="bd_rev">
+    The Analytics Revolution: How to Improve Your Business By Making Analytics Operational In The Big Data Era
+    </string>
+    <string name="ds_for_b">
+        Written by renowned data science experts Foster Provost and Tom Fawcett, \n
+        Data Science for Business introduces the fundamental principles of data science, \n
+        and walks you through the "data-analytic thinking" necessary for extracting \n
+        useful knowledge and business value from the data you collect. \n
+        This guide also helps you understand the many data-mining techniques in use today.
+    </string>
+    <string name="mashinel">
+        Machine learning (ML) is changing virtually every aspect of our lives. Today, \n
+        ML algorithms accomplish tasks that – until recently – only expert humans could perform. \n
+        And finance is ripe for disruptive innovations that will transform how the \n
+        following generations understand money and invest.
+    </string>
+    <string name="python_ml">
+        Applied machine learning with a solid foundation in theory. \n
+        Revised and expanded for TensorFlow 2, GANs, and reinforcement learning.
+    </string>
+    <string name="fund_ml">
+        A comprehensive introduction to the most important machine learning \n
+        approaches used in predictive data analytics, covering both \n
+        theoretical concepts and practical applications.
+    </string>
+    <string name="softwaredev">
+        The first book that covers all aspects of requirements management in software development projects \n
+        Presents the best practices and pitfalls in software engineering requirements and management in one place \n
+        Explains in detail the metrics used for efficient software requirements management
+    </string>
+    <string name="ml_pp">
+        A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach. \n
+        Today is Web-enabled deluge of electronic data calls for automated methods of \n
+        data analysis. Machine learning provides these, developing methods that can automatically \n
+        detect patterns in data and then use the uncovered patterns to predict future data. \n
+        This textbook offers a comprehensive and self-contained introduction to the field \n
+        of machine learning, based on a unified, probabilistic approach.
+    </string>
+    <string name="sys_ml">
+        A Practical Guide to SysML: The Systems Modeling Language is a comprehensive guide \n
+        for understanding and applying SysML to model systems. The Object Management Group’s \n
+        OMG SysML is a general-purpose graphical modeling language for representing systems \n
+        that may include combinations of hardware, software, data, people, facilities, and natural objects.
+    </string>
+
+    <string name="studioa1">
+        Alle Begleitmaterialien wie Audios oder interaktive Übungen können Sie auf cornelsen. \n
+        de/codes ganz einfach herunterladen.Das Kurs- und Übungsbuch enthält einen eingedruckten \n
+        Lizenzcode zur kostenlosen Freischaltung des E-Books und der interaktiven Übungen auf mein.cornelsen.de.
+        </string>
+    <string name="dasleben">
+        Alle Medien zum Lehrwerk wie Audios, Videos, Texte und interaktive Übungen können \n
+        Sie über die kostenlose Cornelsen PagePlayer-App abspielen oder in den Webcodes auf \n
+        cornelsen.de/codes streamen und herunterladen.
+        Das Kurs- und Übungsbuch enthält einen eingedruckten Lizenzcode zur kostenlosen \n
+        Freischaltung des E-Books und der interaktiven Übungen auf mein.cornelsen.de. Die \n
+        Medien lassen sich über Klickstellen an der Buchseite aufrufen.
+        </string>
+    <string name="studioa1audio">
+        Grundstufe · A1: Gesamtband
+        </string>
+    <string name="unterrichtsvorbereitung">
+        Unterrichtsvorbereitung (Print) Mit Toolbox CD-ROM "Der Arbeitsblattgenerator"
+        </string>
+    <string name="studiod">
+        Studio d erfüllt alle Anforderungen an ein modernes Lehrwerk: \n
+        transparente Umsetzung der Lernziele \n
+        Integration von beruflichen Szenarien und Darstellung von Berufsbildern \n
+        viele Aufgaben zur Automatisierung situierter Wortfolgen und zum flüssigen Sprechen \n
+        konsequentes Aussprachetraining von Anfang an \n
+        </string>
+    <string name="studiod1">
+        "studio d" fulfills all the requirements of adult learners today. \n
+        Integrating career scenarios and presenting different kinds of jobs \n
+        with everyday German takes into account the professionally motivated \n
+        interest of many adult learners and the initial focus on set linguistic \n
+        phrases helps students establish a firm basis of spoken language (including \n
+        a programme of pronunciation training) which they can build on in their written work.
+        </string>
+    <string name="studiod2">
+        "studio d" fulfills all the requirements of adult learners today. \n
+        Integrating career scenarios and presenting different kinds of jobs \n
+        with everyday German takes into account the professionally motivated \n
+        interest of many adult learners and the initial focus on set linguistic \n
+        phrases helps students establish a firm basis of spoken language (including \n
+        a programme of pronunciation training) which they can build on in their written work.
+        </string>
+    <string name="studioa2">
+        "studio d" fulfills all the requirements of adult learners today. \n
+        Integrating career scenarios and presenting different kinds of jobs \n
+        with everyday German takes into account the professionally motivated \n
+        interest of many adult learners and the initial focus on set linguistic \n
+        phrases helps students establish a firm basis of spoken language (including \n
+        a programme of pronunciation training) which they can build on in their written work.
+        </string>
+    <string name="dasleben2">
+        Alle Medien zum Lehrwerk wie Audios, Videos, Texte und interaktive Übungen \n
+        können Sie über die kostenlose Cornelsen PagePlayer-App abspielen oder in den \n
+        Webcodes auf cornelsen.de/codes streamen und herunterladen.
+        Das Kurs- und Übungsbuch enthält einen eingedruckten Lizenzcode zur kostenlosen \n
+        Freischaltung des E-Books und der interaktiven Übungen auf mein.cornelsen.de. \n
+        Die Medien lassen sich über Klickstellen an der Buchseite aufrufen.
+        </string>
+    <string name="studioa2t">
+        Testheft mit Audio-CD (Hörtexte zum Hörverstehen) \n
+        Abgestimmt auf das Goethe-Zertifikat A2
+        </string>
+    <string name="studioa2u">
+        Unterrichtsvorbereitung (Print) \n
+Mit Toolbox CD-ROM "Der Arbeitsblattgenerator"
+        </string>
+    <string name="studioda2t">
+        Studio D: Testvorbereitungsheft A2 und Modelltest "Start Deutsch 2". \n
+        . Europäischer Referenzrahmen: A2
+    </string>
+    <string name="studiob1">
+        Alle Begleitmaterialien wie Audios oder interaktive Übungen können  \n
+        Sie auf cornelsen.de/codes ganz einfach herunterladen. \n
+        Das Kurs- und Übungsbuch enthält einen eingedruckten Lizenzcode zur \n
+        kostenlosen Freischaltung des E-Books und der interaktiven Übungen auf mein.cornelsen.de.
+    </string>
+    <string name="studiob1t">
+        Studio [21] ist zugelassen vom BAMF (Bundesamt für Migration und Flüchtlinge). \n
+        Das Lehrwerk richtet sich an Erwachsene ohne Vorkenntnisse, die im In- und Ausland \n
+        Deutsch lernen. Es liegt in drei Gesamtbänden bzw. in sechs Teilbänden vor und führt \n
+        zu Niveau B1. Das umfassende digitale Angebot von Studio [21]garantiert einen flexiblen\n
+        und abwechslungsreichen Unterricht.
+    </string>
+    <string name="studiob1u">
+        Studio [21] ist zugelassen vom BAMF (Bundesamt für Migration und Flüchtlinge). \n
+        Das Lehrwerk richtet sich an Erwachsene ohne Vorkenntnisse, die im In- und Ausland \n
+        Deutsch lernen. Es liegt in drei Gesamtbänden bzw. in sechs Teilbänden vor und \n
+        führt zu Niveau B1. Das umfassende digitale Angebot von Studio [21] \n
+        garantiert einen flexiblen und abwechslungsreichen Unterricht.
+    </string>
+    <string name="studiodb1">
+        Das Sprachtraining stellt zusätzliches Übungsmaterial für die Einzelarbeit \n
+        und für Intensivkurse bereit. Es unterstützt vernetztes Denken und \n
+        ermuntert zur Anwendung von Lerntechniken, mit denen die Kursteilnehmer/-innen \n
+        selbstständiger und erfolgreicher Deutsch lernen. Die fakultativen Seiten Leben  \n
+        in Deutschland richten sich besonders an in Deutschland lebende Lerner und Lernerinnen.
+    </string>
+    <string name="studiodb1z">
+        Studio d erfüllt alle Anforderungen an ein modernes Lehrwerk: \n
+        transparente Umsetzung der Lernziele \n
+        Integration von beruflichen Szenarien und Darstellung von Berufsbildern \n
+        viele Aufgaben zur Automatisierung situierter Wortfolgen und zum flüssigen Sprechen \n
+        konsequentes Aussprachetraining von Anfang an
+    </string>
+
+    <string name="kostenrechnung">
+    Kostenartenrechnung, Kostenstellenrechnung und Kostenträgerstückrechnung – \n
+        dieser Klassiker des BWL-Studiums erläutert die Grundlagen der modernen \n
+        Kostenrechnung. Durch zahlreiche anschauliche Beispiele, Abbildungen, \n
+        Checklisten und Übersichten gelingt ein leichter Einstieg in die Thematik \n
+        der Kostenrechnung. Fragen und Antworten sowie Testklausuren zu jedem Kapitel \n
+        ermöglichen die Wissenskontrolle und sichern den Lernerfolg. Das Lehrbuch eignet \n
+        sich sowohl zur Vor- und Nachbereitung des Lehrstoffs als auch zum gezielten Selbststudium.
+        </string>
+    <string name="duden">
+       Duden Vol.1 Die deutsche Rechtschreibung
+        </string>
+    <string name="business_gb">
+        Business Grammar Builder is a valuable resource for students preparing for \n
+        the BEC Vantage and the TOEIC examinations. (The first level, \n
+        Essential Business Grammar Builder, is suitable for BEC Preliminary Level.
+        </string>
+    <string name="e_business">
+        Essential Business Vocabulary Builder. Students Book: The words  phrases you need to succeed
+        </string>
+    <string name="firm_politic">
+       Раскрыты проблемы формированияфинансовой политики организации в краткосрочном и долгосрочном периодах.
+        </string>
+    <string name="economic">
+        Рассмотрены сущность предпринимательства, его функции, механизм функционирования, \n
+        примеры организации собственного бизнеса и расчеты его безубыточности.
+        </string>
+    <string name="business_task">
+Книга является приложением к третьему изданию учебника проф. Ивашкевича В. Б. «Бухгалтерский управленческий учет» (М. : Магистр, 2015). В ней содержится 115 заданий, ситуаций и упражнений по основным разделам программы курсов « Бухгалтерский управленческий учет» и «Контроллинг». Использованы примеры из учебников западных университетов, опыт зарубежных компаний и отечественных предприятий. Прицелены пять кейсов по комплексным проблемам управленческого учета и контроллинга. Для самостоятельной аудиторной и внеаудиторной работы студентов вузов, обучающихся по экономическим специальностям, бухгалтеров, экономистов и менеджеров, повышающих квалификацию.
+    </string>
+    <string name="buch_uchet">
+Системно изложены основные направления бухгалтерского учета оборотных средств. готовой продукции, денежных средств, материальных ценностей, финансовых вложений. Приведено большое количество практических примеров, тестов и задач для самостоятельного решения. Подготовлено в соответствии с ФГОС ВПО по направлению подготовки 38.03.02 "Менеджмент" (бакалавр) и может быть полезно студентам других экономических специальностей, аспирантам, преподавателям и специалистам финансовых служб организаций.
+    </string>
+    <string name="qgis">
+       The popularity of open source geographic information systems, and QGIS in particular, has been growing rapidly over the last years. Highly configurable programmable environments are often preferable for those who need to be able to precisely reproduce and distribute their work. QGIS is the best and most user friendly GIS tool in the free and open source software (FOSS) community.
+        </string>
+    <string name="pyqgis">
+       Delve into the undocumented features of the QGIS API
+Get a set of user-friendly recipes that can automate entire geospatial workflows by connecting Python GIS building blocks into comprehensive
+        </string>
+    <string name="garrard">
+       Geoprocessing with Python teaches you how to access available datasets to make maps or perform your own analyses using free tools like the GDAL, NumPy, and matplotlib Python modules. Through lots of hands-on examples, you will master core practices like handling multiple vector file formats, editing geometries, applying spatial and attribute filters,
+        </string>
+    <string name="kapralov">
+       В учебном пособии освещены общие вопросы геоинформатики, функциональные возможности географических информационных систем (ГИС), принципы проектирования, аппаратно-программные средства реализации, интеграции данных и технологий, особенности интеллектуализации ГИС и систем поддержки принятия решений и др. Особое внимание уделено блокам моделирования и визуализации данных, а также прикладным аспектам геоинформатики с изложением опыта использования ГИС и анализом литературы. Для студентов высших учебных заведений, обучающихся по специальности "Экология".
+        </string>
+    <string name="sabine">
+       Ob für berufliche oder private Zwecke, im Bildungsbereich oder für Aufgaben im Kontext einer aktiven und direkten Bürgerbeteiligung: Neben statischen Karten gewinnen im Internet auch vermehrt dynamische, interaktive Karten an Bedeutung. Durch die heutigen Informations- und Kommunikationstechnologien bieten sich zahlreiche Möglichkeiten zur Nutzung solcher Karten, wobei unterschiedliche Zielsetzungen und Zielgruppen zu berücksichtigen sind.
+        </string>
+    <string name="selig">
+        Provides an elegant introduction to the geometric concepts that are important to applications in robotics
+* Includes significant state-of-the art material that reflects important advances, connecting robotics back to mathematical fundamentals in group theory and geometry
+* An invaluable reference that serves a wide audience of grad students and researchers in mechanical engineering, computer science, and applied mathematics
+        </string>
+    <string name="hulick">
+       From self-driving cars and drones to elder care robots, technology that was once science fiction is becoming reality. Robotics engineers are the driving force behind the ongoing robotics revolution. What the job entails, what it pays, and future prospects are discussed along with insights from industry insiders.
+        </string>
+
+
+</resources>

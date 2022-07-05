@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_foreign">
+
+    <fragment
+        android:id="@+id/navigation_foreign"
+        android:name="com.example.demoversioninaibibliotek.ui.home.ForeignFragment"
+        android:label="Foreign"
+        tools:layout="@layout/fragment_foreign" >
+        <action
+            android:id="@+id/action_navigation_foreign_to_bookingFragment"
+            app:destination="@id/bookingFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_finance"
+        android:name="com.example.demoversioninaibibliotek.ui.dashboard.FinanceFragment"
+        android:label="Finance"
+        tools:layout="@layout/fragment_finance" >
+        <action
+            android:id="@+id/action_navigation_finance_to_bookingFragment"
+            app:destination="@id/bookingFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_programming"
+        android:name="com.example.demoversioninaibibliotek.ui.notifications.ProgrammingFragment"
+        android:label="Programming"
+        tools:layout="@layout/fragment_programming" >
+        <action
+            android:id="@+id/action_navigation_programming_to_bookingFragment"
+            app:destination="@id/bookingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookingFragment"
+        android:name="com.example.demoversioninaibibliotek.ui.BookingFragment"
+        android:label="fragment_booking"
+        tools:layout="@layout/fragment_booking" />
+
+</navigation>

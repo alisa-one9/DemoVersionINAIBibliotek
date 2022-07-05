@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_foreign"
+        android:icon="@drawable/ic_baseline_dehaze_24"
+        android:title="Foreign"
+      />
+
+    <item
+        android:id="@+id/navigation_finance"
+        android:icon="@drawable/ic_baseline_dehaze_24"
+        android:title="Finance" />
+
+    <item
+        android:id="@+id/navigation_programming"
+        android:icon="@drawable/ic_baseline_dehaze_24"
+        android:title="Progr-ng" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_other"-->
+<!--        android:icon="@drawable/ic_baseline_dehaze_24"-->
+<!--        android:title="Other" />-->
+</menu>

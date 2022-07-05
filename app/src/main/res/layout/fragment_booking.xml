@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.BookingFragment"
+    android:background="@color/tan_background"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/name_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Name of user"
+        android:textAlignment="center"
+         />
+    <TextView
+        android:id="@+id/surname_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Surname of user"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/name_groop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="number of groop"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/gmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="example@gmail.com"
+        android:textAlignment="center"
+        />
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    app:cardCornerRadius="26dp"
+    android:layout_marginTop="16dp"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Выбранная книга:"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp"/>
+
+    <ImageView
+        android:id="@+id/image_zakaz"
+        android:layout_width="120dp"
+        android:layout_height="180dp"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/ecclipse"
+        android:padding="8dp"/>
+
+    <TextView
+        android:id="@+id/name_of_zakaz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:layout_marginTop="40dp"
+       android:layout_marginStart="140dp"
+        android:textColor="@android:color/black"
+        android:textStyle="italic"
+        tools:text="name_of_book" />
+
+    <TextView
+        android:id="@+id/author_zakaz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="author_of_book"
+        android:layout_below="@id/name_of_book"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="65dp"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+       android:layout_gravity="bottom"
+        android:layout_marginStart="12dp"
+        android:padding="2dp">
+        <TextView
+            android:id="@+id/number_exempl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Номер экземпляра : "
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/exempl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:layout_marginStart="26dp"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+
+
+
+</LinearLayout>
